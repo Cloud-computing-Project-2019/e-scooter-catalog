@@ -1,4 +1,4 @@
-#Sudo is deprecating, using it just to run another TravisCI integration cycle
+#Sudo is deprecating
 sudo: required
 
 services:

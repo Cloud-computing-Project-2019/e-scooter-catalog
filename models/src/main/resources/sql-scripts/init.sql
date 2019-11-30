@@ -1,0 +1,2 @@
+insert into escooter (nam,status,price,description,pickuplocation,leavelocation,created) values ('Xiaomi','Free',4.5,'It is a very good e-scooter','Ljubljana','Maribor', TIMESTAMP '2019-09-22 17:16:32');
+insert into escooter (nam,status,price,description,pickuplocation,leavelocation,created) values ('Jijiji','Free',4.5,'It is a very good e-scooter','Ljubljana','Maribor', TIMESTAMP '2019-09-22 17:16:32');
